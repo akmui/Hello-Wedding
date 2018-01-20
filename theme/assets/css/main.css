@@ -83,10 +83,16 @@ a:after {
 	margin-top: -10px;
 	padding-top:20px;
 	text-align:center;
-	background-attachment: relative !important;
+	background-attachment: relative ;
 	background-position: center center;
 	min-height: 700px;
 	width: 100%;
+
+    -webkit-filter: grayscale(100%);
+    -moz-filter: grayscale(100%);
+    -o-filter: grayscale(100%);
+    filter: grayscale(100%);	
+	
 	
     -webkit-background-size: 100%;
     -moz-background-size: 100%;
