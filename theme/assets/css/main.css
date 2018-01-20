@@ -88,10 +88,10 @@ a:after {
 	min-height: 700px;
 	width: 100%;
 
-    -webkit-filter: grayscale(200%);
-    -moz-filter: grayscale(200%);
-    -o-filter: grayscale(200%);
-    filter: grayscale(200%);	
+    -webkit-filter: grayscale(100%);
+    -moz-filter: grayscale(100%);
+    -o-filter: grayscale(100%);
+    filter: grayscale(100%);	
 	
     -webkit-background-size: 100%;
     -moz-background-size: 100%;
