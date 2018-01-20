@@ -87,7 +87,7 @@ a:after {
 	background-position: center center;
 	min-height: 700px;
 	width: 100%;
-	background-blend-mode: darken;
+	background-blend-mode: rgba(200,200,200,5);
 	
     -webkit-background-size: 100%;
     -moz-background-size: 100%;
