@@ -319,7 +319,7 @@ a:after {
 .carousel-inner
 {    
 	
-    text-align: center;
+    text-align: left;
 	
     -webkit-filter: grayscale(100%);
     -moz-filter: grayscale(100%);
