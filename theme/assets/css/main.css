@@ -316,7 +316,7 @@ a:after {
 			transition: all .1s ease-in-out;
 }
 
-.item active centered
+.carousel-inner
 {
 
     -webkit-filter: grayscale(100%);
