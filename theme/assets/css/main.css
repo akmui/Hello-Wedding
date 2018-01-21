@@ -318,7 +318,10 @@ a:after {
 
 .carousel-inner
 {
-
+    display: block;
+    margin-left: auto;  
+    margin-right: auto;
+	
     -webkit-filter: grayscale(100%);
     -moz-filter: grayscale(100%);
     -o-filter: grayscale(100%);
@@ -329,5 +332,5 @@ a:after {
    -khtml-border-radius: 7px;
    -webkit-border-radius: 7px;
 	
-	
+
 }
