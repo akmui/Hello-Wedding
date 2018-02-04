@@ -1,15 +1,8 @@
-/*
- * Author: Carlos Alvarez
- * URL: http://alvarez.is
- *
- * Project Name: Minimal - Free Bootstrap 3 Theme
- * Version: 1.0
- * URL: http://blacktie.co
- */
+@import url(//fonts.googleapis.com/earlyaccess/jejugothic.css);
 
 body {
   background-color: #f2f2f2;
-    font-family: 'EB Garamond', serif;
+    font-family: 'Jeju Gothic', sans-serif;
     font-weight: 300;
     font-size: 16px;
     color: #555;
@@ -116,7 +109,7 @@ a:after {
 	color: white;
 	font-size: 30px;
 	font-weight: 100;
-    font-family: 'EB Garamond', serif;
+    font-family: 'Jeju Gothic', sans-serif;
     font-style: oblique;
 }
 
